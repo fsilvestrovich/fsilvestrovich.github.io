@@ -1,0 +1,139 @@
+
+
+body {
+	background: #E1F5EF;
+    margin: 0;
+    padding: 0;
+    font-size: 18px;
+
+}
+.logo {
+    background: #ffffff;
+    height: 40px;
+    width: 50px;
+    margin: 10px 15px 10px 15px;
+    border-radius:  13px;
+    float: left;
+    display: inline-block;
+}
+
+.header_page {
+    max-width: 960px;
+	margin: auto; 
+}
+
+
+header {
+    width: 100%;
+    height: 60;
+    background: #00A876;  
+    position: fixed;
+	top:0;
+    margin-top: 0;
+}
+
+.layout {
+    max-width: 960px;
+	margin: auto;     
+}
+
+.sidebar {
+    width: 150px;
+    height: auto;
+    float: left;
+    text-align: left;
+    margin: 60px 0px 0px 0px;
+    padding: 10px 0px;
+    display: inline-block;
+}
+
+.search {   
+     background: #207E62;
+    height: 40px;
+    width: 160px;
+    margin: 10px 15px 10px 120px;
+    border-radius: 20px;
+    float: left;
+    display: inline-block;
+}
+
+ol {
+    list-style: none;
+    display: inline-block; 
+    padding: 0px;
+    margin: 0px;
+}
+
+li {
+    margin: 15px;
+    color: #207E62;
+}
+
+.exit {
+    background: #ffffff;
+    height: 40px;
+    width: 70px;
+    margin: 10px 15px 10px 15px;
+    border-radius:  13px;
+    float: right;
+    display: inline-block;
+}
+
+.column {
+    width: 260px;
+    height: 1000px;
+    float: left;
+  
+    text-align: left;
+    margin: 60px 0px 0px 0px;
+    padding: 10px 0px;
+    display: block;
+}
+
+.content {
+    width: 550px;
+    height: auto;
+    float: right;
+    text-align: left;
+    margin: 60px 0px 0px 0px;
+    padding: 10px 0px;
+    display: inline-block;
+}
+
+.profile {
+    width: 260px;
+    min-height: 320;
+    background: #ffffff;
+    margin: 0px;
+    padding: 0px;
+    float: left;
+    display: block;
+}
+
+
+
+
+.friends {
+    width: 260px;
+    height: 120px;
+    background: #ffffff;
+    margin-top: 10px;
+    padding: 0px;
+    float: left;
+}
+
+.friend {
+    background: #207E62;
+    width: 60px;
+    height: 60px; 
+    float: left;
+    margin: 20px 10px;
+}
+
+.friends_row {
+    width: 240px;
+    height: 100px;
+    margin: 10px 10px;
+
+    
+}
